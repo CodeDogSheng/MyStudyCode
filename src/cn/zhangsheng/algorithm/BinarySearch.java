@@ -3,7 +3,7 @@ package cn.zhangsheng.algorithm;
 /**
  * @author 张胜
  * @date 2021年07月01日14时42分创建
- * @description
+ * @description 二分查找
  */
 public class BinarySearch {
 
